@@ -1,6 +1,0 @@
-<Connector command="GetFoldersAndFiles" resourceType="File">
-<CurrentFolder path="/" url="https://spor14.github.io/id/"/>
-<Error number="0"/>
-<Folders/>
-<Files> </Files>
-</Connector>
